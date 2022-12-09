@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DemoWPF": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\anh.nguyen49\\source\\repos\\DemoWPF\\DemoWPF\\Text.txt"
+    }
+  }
+}
